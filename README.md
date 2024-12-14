@@ -20,12 +20,13 @@
 ### 1 libreta = C
 ### 2 libretas = B
 ### 3 libretas = A
-#### A medida que avanzas por las cinco escenas, la dificultad aumenta, reflejando la dificultad de los cursos a lo largo del Bachillerato en Ciencia de Cómputos.
+### A medida que avanzas por las cinco escenas, la dificultad aumenta, reflejando la dificultad de los cursos a lo largo del Bachillerato en Ciencia de Cómputos.
 
 # Creacion del juego
 ## Escena principal: Salon A-143: 
-### El mapa del juego consiste princicpal es una\
-##
+### El mapa del juego consiste en una replica del salon A-143 del Departamento de CCOM: 
+![Salon](https://github.com/user-attachments/assets/f44e5be1-1298-416e-8b57-b47024ff8575)
+## 
 ## Iluminacion:
 ## Jugador:
 ## Enemigos:

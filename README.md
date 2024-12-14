@@ -1,8 +1,13 @@
 # 5 Exámenes en CCOM
+
 ## ¿Qué es 5 Exámenes en CCOM?
+
 ### (INSERTAR LOGO AQUÍ)
+
 ### 5 Exámenes en CCOM es nuestro proyecto final para el curso de CCOM4995: Diseño de Videojuegos. Parte de nuestra inspriación viene de la icónica franquicia Five Nights at Freddy's de Scott Cawthon.
+
 ![image](https://github.com/user-attachments/assets/f9a7dfb9-efb6-4a2f-aab8-ba2999ad24d0)
+
 ### Este juego simula una pesadilla clásica para los estudiantes de Ciencia de Cómputos de la UPR-RP: ¡enfrentar un examen sin haber estudiado y depender de copiarse para pasar!
 
 ### Aunque toma elementos de horror y humor, 5 Exámenes en CCOM es único en sus mecánicas y está diseñado como un tributo a los estudiantes y profesores del Departamento de CCOM.

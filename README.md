@@ -8,11 +8,17 @@
 
 ![image](https://github.com/user-attachments/assets/f9a7dfb9-efb6-4a2f-aab8-ba2999ad24d0)
 
-### Este juego simula una pesadilla clásica para los estudiantes de Ciencia de Cómputos de la UPR-RP: ¡enfrentar un examen sin haber estudiado y depender de copiarse para pasar!
+### Este juego simula una pesadilla clásica para los estudiantes de Ciencia de Cómputos de la UPR-RP: ¡enfrentar un examen sin haber estudiado y depender de copiarse para pasar! Aunque toma elementos de horror y humor, 5 Exámenes en CCOM es único en sus mecánicas y está diseñado como un tributo a los estudiantes y profesores del Departamento de CCOM.
 
-### Aunque toma elementos de horror y humor, 5 Exámenes en CCOM es único en sus mecánicas y está diseñado como un tributo a los estudiantes y profesores del Departamento de CCOM.
-## Objetivos de 5 Examenes en CCOM
-### Eres un estudiante que necesitas buscar 3 libretas cuyo contienen la informacion necesaria para poder pasar el examen y, en fin el curso. NEcesitas moverte de manera agil y veloz debido a que el profesor (junto con el apoyo de un invitado especial) estaran rondando por el salon asegurando de que nadie se este copiando. Para pasar a la siguiente escena necesitas, al menos, obtener una de las tres libretas disponibles; De no recoger ninguna pierdes. Ademas, de ser atrapado por el profesor, pierdes inmediatamente el juego. Ademas, tienes un limite de tiempo para recoger las libretas. Basado en cuantas libretas obtengas recibiras una mejor calficiacion (1 libreta = C, 2 = B, 3 = A). Cada escena se volvera mas dificil hasta que llegues a la ultima. la dificultad esta basada en los cursos que se toman a traves del Bachillerato y cuan dificiles son para los estudiantes.
+## Objetivo del juego
+### Eres un estudiante desesperado en busca de 3 libretas con las respuestas del examen. Pero cuidado: el profesor, junto con un invitado especial, patrullan el salón para asegurarse de que nadie se copie.
+## Reglas principales:
+### Recoge al menos 1 libreta para avanzar al siguiente nivel. Si no recoges ninguna, pierdes. Ser atrapado por el profesor resulta en una derrota inmediata. Ademas, tienes un tiempo limitado para completar tu misión en cada nivel.
+## Sistema de calificación:
+### 1 libreta = C
+### 2 libretas = B
+### 3 libretas = A
+### A medida que avanzas por las cinco escenas, la dificultad aumenta, reflejando la dificultad de los cursos a lo largo del Bachillerato en Ciencia de Cómputos.
 ## Agradecimientos
 ### Queremos agradecer a los siguientes profesores del Departamento de Ciencia de Computos por permitir proveernos sus imagenes para mejorar el juego: Edusmildo Orozco y su perro Thor, Rafael Arce, David Flores, Ivelisse rubio, Jose Ortiz, Humberto Ortiz y Lillian Gonzalez. 
 

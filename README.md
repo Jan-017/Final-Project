@@ -12,13 +12,25 @@
 
 ## Objetivo del juego
 ### Eres un estudiante desesperado en busca de 3 libretas con las respuestas del examen. Pero cuidado: el profesor, junto con un invitado especial, patrullan el salón para asegurarse de que nadie se copie.
+
 ## Reglas principales:
 ### Recoge al menos 1 libreta para avanzar al siguiente nivel. Si no recoges ninguna, pierdes. Ser atrapado por el profesor resulta en una derrota inmediata. Ademas, tienes un tiempo limitado para completar tu misión en cada nivel.
+
 ## Sistema de calificación:
 ### 1 libreta = C
 ### 2 libretas = B
 ### 3 libretas = A
-### A medida que avanzas por las cinco escenas, la dificultad aumenta, reflejando la dificultad de los cursos a lo largo del Bachillerato en Ciencia de Cómputos.
+#### A medida que avanzas por las cinco escenas, la dificultad aumenta, reflejando la dificultad de los cursos a lo largo del Bachillerato en Ciencia de Cómputos.
+
+# Creacion del juego
+## Escena principal: Salon A-143: 
+### El mapa del juego consiste princicpal es una\
+##
+## Iluminacion:
+## Jugador:
+## Enemigos:
+## Win-Lose Screens
+
 ## Agradecimientos
 ### Agradecemos profundamente a los siguientes profesores del Departamento de Ciencias de Cómputos por su apoyo y colaboración al permitir el uso de sus imágenes en el juego:
 ### Edusmildo Orozco y su perro Thor

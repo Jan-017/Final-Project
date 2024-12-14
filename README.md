@@ -23,6 +23,8 @@
 ### A medida que avanzas por las cinco escenas, la dificultad aumenta, reflejando la dificultad de los cursos a lo largo del Bachillerato en Ciencia de Cómputos.
 
 # Creación del Juego
+## Assets Utilizados de la Tienda:
+
 ## Escena principal: Salon A-143: 
 ### El mapa principal del juego es una réplica del Salón A-143 del Departamento de CCOM. Para lograr el mayor realismo posible, tomamos fotografías de múltiples ángulos y de los objetos presentes en el salón. Esto nos permitió recrear el espacio con precisión, añadiendo detalles visuales que reflejan el ambiente del aula original.
 ![Salon](https://github.com/user-attachments/assets/f44e5be1-1298-416e-8b57-b47024ff8575) 
@@ -35,8 +37,8 @@
 
 ## Pantallas de Victoria y Derrota
 
-### Uno de los elementos más creativos de 5 Exámenes en CCOM son las pantallas finales, donde profesores del Departamento de CCOM colaboraron con fotografías en dos versiones: una feliz y otra molesta. Estas imágenes se complementaron con decoraciones humorísticas para mantener un tono ligero y respetuoso, en particular hacia los profesores. Hay cuatro tipos de escenas:
-
+### Uno de los elementos más creativos de 5 Exámenes en CCOM son las pantallas finales, creadas con la colaboración de profesores del Departamento de CCOM. Estas incluyen fotografías en dos versiones: una feliz y otra molesta. Las imágenes fueron decoradas con elementos humorísticos, como objetos, imágenes y videos, para mantener un tono ligero y respetuoso hacia los profesores. Además, utilizamos una tipografía similar a la de Five Nights at Freddy's, obtenida de www.dafont.com, para reforzar la estética del juego.
+### Tipos de Escenas: 
 ### Escena introductoria: Antes de cada partida, se muestra la clase, el curso, el profesor y la hora.
 
 ### Victoria final: Una pantalla cómica que celebra el triunfo del jugador.
@@ -44,6 +46,7 @@
 
 ### Derrota 2: Si te atrapan copiándote, el profesor aparece molesto por tus acciones. 
 
+### Utilizamos un font similar al que se usa en FNAF para mantener la cercania al juego. El font se obtuvo de www.dafont.com
 ### (INSERTA GIF'S AQUI)
 
 

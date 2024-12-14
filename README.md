@@ -71,6 +71,8 @@
 ![14](https://github.com/user-attachments/assets/8bdae88d-8aca-40bd-95de-9eaf78e06327)
 ### BLAH BLAH BLAH
 ![15](https://github.com/user-attachments/assets/8fda4a91-05fd-4d94-8643-bfcab0a456c9)
+### BLAH BLAH BLAH
+![16](https://github.com/user-attachments/assets/d389b14b-d70e-4fa6-bf52-f8d42b649460)
 
 ## Iluminacion:
 

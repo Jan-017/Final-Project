@@ -92,7 +92,6 @@
 
 ### Derrota 2: Si te atrapan copiándote, el profesor aparece molesto por tus acciones. 
 
-### Utilizamos un font similar al que se usa en FNAF para mantener la cercania al juego. El font se obtuvo de www.dafont.com
 ### (INSERTA GIF'S AQUI)
 
 ## Agradecimientos

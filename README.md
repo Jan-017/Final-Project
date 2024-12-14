@@ -20,9 +20,11 @@
 ### 3 libretas = A
 ### A medida que avanzas por las cinco escenas, la dificultad aumenta, reflejando la dificultad de los cursos a lo largo del Bachillerato en Ciencia de Cómputos.
 ## Agradecimientos
-### Queremos agradecer a los siguientes profesores del Departamento de Ciencia de Computos por permitir proveernos sus imagenes para mejorar el juego: Edusmildo Orozco y su perro Thor, Rafael Arce, David Flores, Ivelisse rubio, Jose Ortiz, Humberto Ortiz y Lillian Gonzalez. 
-
-# Creacion de 5 Examenes en CCOM
-## Escena Principal
-## Win-Lose Screens
-##
+### Agradecemos profundamente a los siguientes profesores del Departamento de Ciencias de Cómputos por su apoyo y colaboración al permitir el uso de sus imágenes en el juego:
+### Edusmildo Orozco y su perro Thor
+### Rafael Arce
+### David Flores
+### Ivelisse Rubio
+### José Ortiz
+### Humberto Ortiz
+### Lillian González

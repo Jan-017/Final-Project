@@ -49,7 +49,6 @@
 ### Utilizamos un font similar al que se usa en FNAF para mantener la cercania al juego. El font se obtuvo de www.dafont.com
 ### (INSERTA GIF'S AQUI)
 
-
 ## Agradecimientos
 
 ### Agradecemos profundamente a los siguientes profesores del Departamento de Ciencias de Cómputos por su apoyo y colaboración al permitir el uso de sus imágenes en el juego:

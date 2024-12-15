@@ -101,9 +101,6 @@
 ### Para la pared de la izquierda, añadimos una silla azul y receptáculos eléctricos.
 ![13](https://github.com/user-attachments/assets/a4a32124-0d39-4661-bea9-545931af3fbe)
 
-### Finalmentem en la pared frontal, mejoramos el whiteboard, añadimos el proyector, receptáculos, extintor y carteles de noticias.
-![14](https://github.com/user-attachments/assets/8bdae88d-8aca-40bd-95de-9eaf78e06327)
-
 ### Finalmente, en la pared de la derecha, solo se añadió un receptáculo adicional.
 ![15](https://github.com/user-attachments/assets/8fda4a91-05fd-4d94-8643-bfcab0a456c9)
 
@@ -113,11 +110,8 @@
 ![19](https://github.com/user-attachments/assets/2f3976d6-9f4e-40f7-9f32-776b19b93d4d)
 ![20](https://github.com/user-attachments/assets/a2199c25-06cd-4182-a54f-e56f1f424af4)
 
-
-
 ### Por ultimo, colocamos colliders a todos los objetos del salon que el jugador puede interactuar, concluyendo la creacion. Para los demas niveles, lo que hicimos fue mover sillas y desorganizarlo un poco para hacerlo mas retante. Originalmente pensabamos que iba a quedar mas tecato la escena, pero estamos bastante orgullosos con el resultado final. Mostramos la siguiente foto para comparar con la tomada al principio.
 ![16](https://github.com/user-attachments/assets/d389b14b-d70e-4fa6-bf52-f8d42b649460)
-
 
 ## Jugador:
 

@@ -1,6 +1,6 @@
 # **5 Exámenes en CCOM**
 
-## ¿Qué es 5 Exámenes en CCOM?
+## **¿Qué es 5 Exámenes en CCOM?**
 
 ### (INSERTAR LOGO AQUÍ)
 
@@ -10,21 +10,21 @@
 
 ### Este juego simula una pesadilla clásica para los estudiantes de Ciencia de Cómputos de la UPR-RP: ¡enfrentar un examen sin haber estudiado y depender de copiarse para pasar! Aunque toma elementos de horror y humor, 5 Exámenes en CCOM es único en sus mecánicas y está diseñado como un tributo a los estudiantes y profesores del Departamento de CCOM.
 
-## Objetivo del juego
+## **Objetivo del juego**
 ### Eres un estudiante desesperado en busca de 3 libretas con las respuestas del examen. Pero cuidado: el profesor, junto con un invitado especial, patrullan el salón para asegurarse de que nadie se copie.
 
-## Reglas principales:
+## **Reglas principales:**
 ### Recoge al menos 1 libreta para avanzar al siguiente nivel. Si no recoges ninguna, pierdes. Ser atrapado por el profesor resulta en una derrota inmediata. Ademas, tienes un tiempo limitado para completar tu misión en cada nivel.
 
-## Sistema de calificación:
+## **Sistema de calificación:**
 ### 1 libreta = C
 ### 2 libretas = B
 ### 3 libretas = A
 ### A medida que avanzas por las cinco escenas, la dificultad aumenta, reflejando la dificultad de los cursos a lo largo del Bachillerato en Ciencia de Cómputos.
 
-# Creación del Juego
+# **Creación del Juego**
 
-## Assets Utilizados de la Tienda de Unity:
+## **Assets Utilizados de la Tienda de Unity:**
 ### Desks Starter Collection
 ### GUI Parts
 ### Horror School Props
@@ -38,10 +38,125 @@
 ### TextMeshPro
 
 ## **Escena Principal: Salón A-143**
+### El mapa principal del juego es una réplica fiel del Salón A-143 del Departamento de CCOM. Para garantizar el mayor realismo, tomamos fotografías de múltiples ángulos y objetos presentes en el salón, recreándolo con precisión en Unity.
+![Salon](https://github.com/user-attachments/assets/f44e5be1-1298-416e-8b57-b47024ff8575) 
+##
+Open sidebar
+
+ChatGPT 4o
+
+You said:
+que carajo son los grids de metales en el techo del saon de clases
+ChatGPT said:
+ChatGPT
+Los grids de metal en el techo de un salón de clases suelen ser rejillas o estructuras metálicas instaladas con propósitos específicos. Aquí algunas posibles razones de su presencia:
+
+Soporte estructural:
+Podrían ser parte del diseño del edificio, utilizados para sostener paneles de techo o luminarias.
+
+Ventilación o climatización:
+Si están conectados a conductos, probablemente sean rejillas de aire acondicionado o calefacción para ventilar y regular la temperatura del espacio.
+
+Acústica:
+Algunas estructuras metálicas se instalan para reducir el eco o mejorar la calidad acústica en espacios cerrados.
+
+Cableado y tecnología:
+En algunas escuelas modernas, los grids se usan para ocultar cables eléctricos, de internet o de sistemas audiovisuales.
+
+Protección o seguridad:
+En ciertos contextos, pueden proteger equipos eléctricos o cubrir áreas sensibles.
+
+¿Están conectados a algún equipo visible o cumplen una función específica que notes?
+
+
+
+
+
+
+You said:
+Uploaded image
+Uploaded image
+esas dos cosas
+ChatGPT said:
+ChatGPT
+Estas imágenes parecen mostrar dispositivos comunes en los techos de edificios modernos, como escuelas u oficinas. Te explico:
+
+Primera imagen (dispositivo blanco con luz azul):
+
+Se trata de un punto de acceso Wi-Fi o "Access Point".
+Se usa para distribuir una red inalámbrica de internet (Wi-Fi) en el salón o área específica. La luz azul indica que el dispositivo está activo y funcionando.
+Segunda imagen (rejilla metálica perforada):
+
+Es una rejilla de ventilación o difusor de aire acondicionado.
+Estas rejillas permiten que el aire frío o caliente se distribuya de forma eficiente en el salón.
+Detrás de la rejilla se pueden ver los conductos o ventiladores que impulsan el flujo de aire.
+En resumen, el grid de metal en el techo (segunda imagen) es parte del sistema de ventilación/climatización, mientras que el dispositivo de la primera imagen se encarga de brindar acceso a internet mediante Wi-Fi. Ambos son instalaciones típicas en edificios modernos.
+
+
+
+
+
+
+You said:
+## Escena principal: Salon A-143: 
 ### El mapa principal del juego es una réplica del Salón A-143 del Departamento de CCOM. Para lograr el mayor realismo posible, tomamos fotografías de múltiples ángulos y de los objetos presentes en el salón. Esto nos permitió recrear el espacio con precisión, añadiendo detalles visuales que reflejan el ambiente del aula original.
 ![Salon](https://github.com/user-attachments/assets/f44e5be1-1298-416e-8b57-b47024ff8575) 
 
 ### Para facilitar la creacion del salon, lo dividimos en subcategorias: piso, mesas, paredes, techo y decoraciones, en ese orden.
+### Debido a que el piso del salon en vida real es cuadriculado, comenzamos insertando un terreno ajustado y lo dividimos en grids usando una textura.
+![1](https://github.com/user-attachments/assets/380d2c70-98b8-4644-bd9d-966403c6028f)
+
+### Aprovechamos esta oportunidad para ir insertando los personajes que utilizaremos durante la escena. El perro antropomorfico sera el jugador principal (en primera persona), el perro animalistico sera Thor, la mascota del profesor Edusmildo Orozco, y el hombre seran los profesores.
+![2](https://github.com/user-attachments/assets/a60e3d70-3b23-4b5e-ad2e-d4a2338aa8fe)
+
+### Una vez colocados los personajes, proseguimos a hacer los prefabs de la mesas, junto con las sillas, del salon de clases. Consideramos que este paso es sumamente importante debido a que determinara el tamano del salon por dentro. Hicimos las mesas a un tamano apropiado para nuestro personaje. Las texturas se obtuvieron fotografiando el salon de clases, como previamente mencionado.
+![3](https://github.com/user-attachments/assets/4cb7ce47-315d-44ae-b833-d06ecfaa18e5)
+
+### Una vez hecho el prefab, duplicamos las demas mesas y las distanciamos entre si. Esto incluye las otras mesas distintas a las comunes del salon de clases. Esto concluye este paso.
+![4](https://github.com/user-attachments/assets/947d4f77-72f6-4683-9207-2b4cdf4c041d)
+
+### La creacion de las paredes no fue complicado, a excepcion de la pared que contiene las ventanas del salon (la pared de la izquierda si la pared de al frente es la que contiene las pizarras). Esta requirio mas atencion debido a que contiene ventanas, cortinas y espacios internos con muchas esquinas. Utilizamos y ajustamos las figuras ofrecidas en Game Object para crear esa pared, al igual que las siguientes.
+![5](https://github.com/user-attachments/assets/b6b56553-b39f-4030-b28b-e564e7924176)
+
+### La siguiente pared, la pared frontal, contiene las pizarras y el whiteboard donde se proyectan las presentaciones y eso. Mas adelante le anadiremos mas detalles.
+![6](https://github.com/user-attachments/assets/eed6ac13-1b36-4a49-afe9-b0ece6e85dc1)
+
+### No hay que decir mucho de la pared lateral derecha. Aqui esta 
+![7](https://github.com/user-attachments/assets/f2c29fdc-a88b-44c7-b9d7-5ae3c4ade52d)
+
+### Similar a la anterior, esta pared no contiene varios objetos unicos, a excepcion de la decoracion.
+![8](https://github.com/user-attachments/assets/4382ec98-52cb-4cf5-833c-f3830f668c29)
+
+### COncluimos el paso de crear las paredes. A continuacion mostramos un angulo de como va quedando la escena principal.
+![9](https://github.com/user-attachments/assets/1e1f5649-bf55-48b1-a73a-8ca2f46e033e)
+
+### Para crear el techo, utilizamos un plano y lo dividimos en cuadriculas con la herramienta de ProBuilder de Unity. Le aplicamos la textura del techo del salon de clases mediante fotografias. Ademas, debido a los espacios que hay en la pared izquierda, rellenamos esos espacios con cubos ajustados.
+![10](https://github.com/user-attachments/assets/6cd4d872-8373-4a2b-814c-e16d858b1cd4)
+
+### Aprovechamos esta oportunidad para rellenar el techo con sus apropiadas cosas, como las luces, el access point de wifi y las rejillas de ventilacion del aire acondicionado. Mas adelante le colocaremos luces scripts para que hagan flickering. Colocamos el techo justo encima de las paredes, concluyendo este paso.
+![11](https://github.com/user-attachments/assets/dfedcb29-15e2-4568-a465-8efe16fda338)
+
+### Las siguientes imagenes consistiran de las decoraciones que le dimos al salon de clases para darle flare y un touch. Comenzando con la  pared de atras, anadimos los breakers, los sensores de temperatura, pupitres adicionales, receptaculos y el fuego extintor junto con su cartel.
+![12](https://github.com/user-attachments/assets/8c8077cc-2ec9-4039-b92d-b35cc1114254)
+
+### La pared de la izquierda no contiene muchos detalles a excepcon de la silla azul y los receptaculos.
+![13](https://github.com/user-attachments/assets/a4a32124-0d39-4661-bea9-545931af3fbe)
+
+### Para la pared frontal, mejoramos la pizarra con el proyector el whiteboard, los receptaculos, el fuego extinor y los carteles cuyo continenen noticias y anuncios.
+![14](https://github.com/user-attachments/assets/8bdae88d-8aca-40bd-95de-9eaf78e06327)
+
+### La pared de la derecha se mantuvo igual, solo anadimos un receptaculo que le pertenece
+![15](https://github.com/user-attachments/assets/8fda4a91-05fd-4d94-8643-bfcab0a456c9)
+
+### Por ultimo, colocamos colliders a todos los objetos del salon que el jugador puede interactuar, concluyendo la creacion. Para los demas niveles, lo que hicimos fue mover sillas y desorganizarlo un poco para hacerlo mas retante. Originalmente pensabamos que iba a quedar mas tecato la escena, pero estamos bastante orgullosos con el resultado final. Mostramos la siguiente foto para comparar con la tomada al principio.
+![16](https://github.com/user-attachments/assets/d389b14b-d70e-4fa6-bf52-f8d42b649460)
+
+
+## **Escena Principal: Salón A-143**
+### El mapa principal del juego es una réplica fiel del Salón A-143 del Departamento de CCOM. Para garantizar el mayor realismo, tomamos fotografías de múltiples ángulos y objetos presentes en el salón, recreándolo con precisión en Unity.
+
+## Proceso de Creación
+### Organizamos el trabajo en las siguientes categorías: piso, mesas, paredes, techo y decoraciones, en ese orden.
 ### Debido a que el piso del salon en vida real es cuadriculado, comenzamos insertando un terreno ajustado y lo dividimos en grids usando una textura.
 ![1](https://github.com/user-attachments/assets/380d2c70-98b8-4644-bd9d-966403c6028f)
 

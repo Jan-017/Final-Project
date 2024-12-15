@@ -40,18 +40,18 @@
 ## Escena principal: Salon A-143: 
 ### El mapa principal del juego es una réplica del Salón A-143 del Departamento de CCOM. Para lograr el mayor realismo posible, tomamos fotografías de múltiples ángulos y de los objetos presentes en el salón. Esto nos permitió recrear el espacio con precisión, añadiendo detalles visuales que reflejan el ambiente del aula original.
 ![Salon](https://github.com/user-attachments/assets/f44e5be1-1298-416e-8b57-b47024ff8575) 
-
-### BLAH BLAH BLAH
+### Para facilitar la creacion del salon, lo dividimos en subcategorias: piso, mesas, paredes, techo y decoraciones, en ese orden.
+### Debido a que el piso del salon en vida real es cuadriculado, comenzamos insertando un terreno ajustado y lo dividimos en grids usando una textura.
 ![1](https://github.com/user-attachments/assets/380d2c70-98b8-4644-bd9d-966403c6028f)
-### BLAH BLAH BLAH
+### Aprovechamos esta oportunidad para ir insertando los personajes que utilizaremos durante la escena. El perro antropomorfico sera el jugador principal (en primera persona), el perro animalistico sera Thor, la mascota del profesor Edusmildo Orozco, y el hombre seran los profesores.
 ![2](https://github.com/user-attachments/assets/a60e3d70-3b23-4b5e-ad2e-d4a2338aa8fe)
-### BLAH BLAH BLAH
+### Una vez colocados los personajes, proseguimos a hacer los prefabs de la mesas, junto con las sillas, del salon de clases. Consideramos que este paso es sumamente importante debido a que determinara el tamano del salon por dentro. Hicimos las mesas a un tamano apropiado para nuestro personaje. Las texturas se obtuvieron fotografiando el salon de clases, como previamente mencionado.
 ![3](https://github.com/user-attachments/assets/4cb7ce47-315d-44ae-b833-d06ecfaa18e5)
-### BLAH BLAH BLAH
+### Una vez hecho el prefab, duplicamos las demas mesas y las distanciamos entre si. Esto incluye las otras mesas distintas a las comunes del salon de clases. Esto concluye este paso.
 ![4](https://github.com/user-attachments/assets/947d4f77-72f6-4683-9207-2b4cdf4c041d)
-### BLAH BLAH BLAH
+### La creacion de las paredes no fue demasiado de muy complicado, a excepcion de la pared que contiene las ventanas del salon (la pared de la izquierda si la pared de al frente es la que contiene las pizarras). Esta requirio mas atencion debido a que contiene ventanas, cortinas y espacios internos con muchas esquinas. Utilizamos y ajustamos las figuras ofrecidas en Game Object para crear esa pared, al igual que las siguientes.
 ![5](https://github.com/user-attachments/assets/b6b56553-b39f-4030-b28b-e564e7924176)
-### BLAH BLAH BLAH
+### La siguiente pared, la pared frontal, contiene las pizarras y el whiteboard donde se proyectan las presentaciones y eso. Colocamos 
 ![6](https://github.com/user-attachments/assets/eed6ac13-1b36-4a49-afe9-b0ece6e85dc1)
 ### BLAH BLAH BLAH
 ![7](https://github.com/user-attachments/assets/f2c29fdc-a88b-44c7-b9d7-5ae3c4ade52d)

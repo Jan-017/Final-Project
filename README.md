@@ -1,4 +1,4 @@
-# 5 Exámenes en CCOM
+# **5 Exámenes en CCOM**
 
 ## ¿Qué es 5 Exámenes en CCOM?
 
@@ -37,7 +37,7 @@
 ### AllSkyFree
 ### TextMeshPro
 
-## Escena principal: Salon A-143: 
+## **Escena Principal: Salón A-143**
 ### El mapa principal del juego es una réplica del Salón A-143 del Departamento de CCOM. Para lograr el mayor realismo posible, tomamos fotografías de múltiples ángulos y de los objetos presentes en el salón. Esto nos permitió recrear el espacio con precisión, añadiendo detalles visuales que reflejan el ambiente del aula original.
 ![Salon](https://github.com/user-attachments/assets/f44e5be1-1298-416e-8b57-b47024ff8575) 
 
@@ -75,19 +75,19 @@
 ### Aprovechamos esta oportunidad para rellenar el techo con sus apropiadas cosas, como las luces, el access point de wifi y las rejillas de ventilacion del aire acondicionado. Mas adelante le colocaremos luces scripts para que hagan flickering. Colocamos el techo justo encima de las paredes, concluyendo este paso.
 ![11](https://github.com/user-attachments/assets/dfedcb29-15e2-4568-a465-8efe16fda338)
 
-### Las siguientes imagenes consistiran de las decoraciones que le dimos al salon de clases para darle flare y un touch. Comenzando con la  pared de atras,
+### Las siguientes imagenes consistiran de las decoraciones que le dimos al salon de clases para darle flare y un touch. Comenzando con la  pared de atras, anadimos los breakers, los sensores de temperatura, pupitres adicionales, receptaculos y el fuego extintor junto con su cartel.
 ![12](https://github.com/user-attachments/assets/8c8077cc-2ec9-4039-b92d-b35cc1114254)
 
-### BLAH BLAH BLAH
+### La pared de la izquierda no contiene muchos detalles a excepcon de la silla azul y los receptaculos.
 ![13](https://github.com/user-attachments/assets/a4a32124-0d39-4661-bea9-545931af3fbe)
 
-### BLAH BLAH BLAH
+### Para la pared frontal, mejoramos la pizarra con el proyector el whiteboard, los receptaculos, el fuego extinor y los carteles cuyo continenen noticias y anuncios.
 ![14](https://github.com/user-attachments/assets/8bdae88d-8aca-40bd-95de-9eaf78e06327)
 
-### BLAH BLAH BLAH
+### La pared de la derecha se mantuvo igual, solo anadimos un receptaculo que le pertenece
 ![15](https://github.com/user-attachments/assets/8fda4a91-05fd-4d94-8643-bfcab0a456c9)
 
-### BLAH BLAH BLAH
+### Por ultimo, colocamos colliders a todos los objetos del salon que el jugador puede interactuar, concluyendo la creacion. Para los demas niveles, lo que hicimos fue mover sillas y desorganizarlo un poco para hacerlo mas retante. Originalmente pensabamos que iba a quedar mas tecato la escena, pero estamos bastante orgullosos con el resultado final. Mostramos la siguiente foto para comparar con la tomada al principio.
 ![16](https://github.com/user-attachments/assets/d389b14b-d70e-4fa6-bf52-f8d42b649460)
 
 ## Iluminacion:

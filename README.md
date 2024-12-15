@@ -108,66 +108,16 @@
 ![15](https://github.com/user-attachments/assets/8fda4a91-05fd-4d94-8643-bfcab0a456c9)
 
 ## **Paso 7: Iluminación**
-### Optamos por hacer un salon oscuro para aumentar la susension y el temor. Decidimos aplicar un skybox de noche para que haya escasez de luz. Ademas anadimos un script de parpadeo para cada luz de tal modo que la unica ilumanicion que existira en el juego sera inconsistente. 
+### Optamos por crear un salón oscuro para aumentar la suspensión y el temor. Aplicamos un skybox nocturno para generar escasez de luz. Además, añadimos un script de parpadeo a cada luz, de modo que la única iluminación en el juego sea inconsistente. Este script incluye delays ajustables entre los niveles máximo y mínimo de intensidad, así como el parpadeo. También configuramos qué luces se encenderán según el nivel del juego. A continuación, presentamos el script implementado:
+![18](https://github.com/user-attachments/assets/d1c31f08-42cc-433b-a1e6-ac61c955acb9)
+![19](https://github.com/user-attachments/assets/2f3976d6-9f4e-40f7-9f32-776b19b93d4d)
+![20](https://github.com/user-attachments/assets/a2199c25-06cd-4182-a54f-e56f1f424af4)
+
+
 
 ### Por ultimo, colocamos colliders a todos los objetos del salon que el jugador puede interactuar, concluyendo la creacion. Para los demas niveles, lo que hicimos fue mover sillas y desorganizarlo un poco para hacerlo mas retante. Originalmente pensabamos que iba a quedar mas tecato la escena, pero estamos bastante orgullosos con el resultado final. Mostramos la siguiente foto para comparar con la tomada al principio.
 ![16](https://github.com/user-attachments/assets/d389b14b-d70e-4fa6-bf52-f8d42b649460)
 
-
-## **Escena Principal: Salón A-143**
-### El mapa principal del juego es una réplica fiel del Salón A-143 del Departamento de CCOM. Para garantizar el mayor realismo, tomamos fotografías de múltiples ángulos y objetos presentes en el salón, recreándolo con precisión en Unity.
-
-## Proceso de Creación
-### Organizamos el trabajo en las siguientes categorías: piso, mesas, paredes, techo y decoraciones, en ese orden.
-### Debido a que el piso del salon en vida real es cuadriculado, comenzamos insertando un terreno ajustado y lo dividimos en grids usando una textura.
-![1](https://github.com/user-attachments/assets/380d2c70-98b8-4644-bd9d-966403c6028f)
-
-### Aprovechamos esta oportunidad para ir insertando los personajes que utilizaremos durante la escena. El perro antropomorfico sera el jugador principal (en primera persona), el perro animalistico sera Thor, la mascota del profesor Edusmildo Orozco, y el hombre seran los profesores.
-![2](https://github.com/user-attachments/assets/a60e3d70-3b23-4b5e-ad2e-d4a2338aa8fe)
-
-### Una vez colocados los personajes, proseguimos a hacer los prefabs de la mesas, junto con las sillas, del salon de clases. Consideramos que este paso es sumamente importante debido a que determinara el tamano del salon por dentro. Hicimos las mesas a un tamano apropiado para nuestro personaje. Las texturas se obtuvieron fotografiando el salon de clases, como previamente mencionado.
-![3](https://github.com/user-attachments/assets/4cb7ce47-315d-44ae-b833-d06ecfaa18e5)
-
-### Una vez hecho el prefab, duplicamos las demas mesas y las distanciamos entre si. Esto incluye las otras mesas distintas a las comunes del salon de clases. Esto concluye este paso.
-![4](https://github.com/user-attachments/assets/947d4f77-72f6-4683-9207-2b4cdf4c041d)
-
-### La creacion de las paredes no fue complicado, a excepcion de la pared que contiene las ventanas del salon (la pared de la izquierda si la pared de al frente es la que contiene las pizarras). Esta requirio mas atencion debido a que contiene ventanas, cortinas y espacios internos con muchas esquinas. Utilizamos y ajustamos las figuras ofrecidas en Game Object para crear esa pared, al igual que las siguientes.
-![5](https://github.com/user-attachments/assets/b6b56553-b39f-4030-b28b-e564e7924176)
-
-### La siguiente pared, la pared frontal, contiene las pizarras y el whiteboard donde se proyectan las presentaciones y eso. Mas adelante le anadiremos mas detalles.
-![6](https://github.com/user-attachments/assets/eed6ac13-1b36-4a49-afe9-b0ece6e85dc1)
-
-### No hay que decir mucho de la pared lateral derecha. Aqui esta 
-![7](https://github.com/user-attachments/assets/f2c29fdc-a88b-44c7-b9d7-5ae3c4ade52d)
-
-### Similar a la anterior, esta pared no contiene varios objetos unicos, a excepcion de la decoracion.
-![8](https://github.com/user-attachments/assets/4382ec98-52cb-4cf5-833c-f3830f668c29)
-
-### COncluimos el paso de crear las paredes. A continuacion mostramos un angulo de como va quedando la escena principal.
-![9](https://github.com/user-attachments/assets/1e1f5649-bf55-48b1-a73a-8ca2f46e033e)
-
-### Para crear el techo, utilizamos un plano y lo dividimos en cuadriculas con la herramienta de ProBuilder de Unity. Le aplicamos la textura del techo del salon de clases mediante fotografias. Ademas, debido a los espacios que hay en la pared izquierda, rellenamos esos espacios con cubos ajustados.
-![10](https://github.com/user-attachments/assets/6cd4d872-8373-4a2b-814c-e16d858b1cd4)
-
-### Aprovechamos esta oportunidad para rellenar el techo con sus apropiadas cosas, como las luces, el access point de wifi y las rejillas de ventilacion del aire acondicionado. Mas adelante le colocaremos luces scripts para que hagan flickering. Colocamos el techo justo encima de las paredes, concluyendo este paso.
-![11](https://github.com/user-attachments/assets/dfedcb29-15e2-4568-a465-8efe16fda338)
-
-### Las siguientes imagenes consistiran de las decoraciones que le dimos al salon de clases para darle flare y un touch. Comenzando con la  pared de atras, anadimos los breakers, los sensores de temperatura, pupitres adicionales, receptaculos y el fuego extintor junto con su cartel.
-![12](https://github.com/user-attachments/assets/8c8077cc-2ec9-4039-b92d-b35cc1114254)
-
-### La pared de la izquierda no contiene muchos detalles a excepcon de la silla azul y los receptaculos.
-![13](https://github.com/user-attachments/assets/a4a32124-0d39-4661-bea9-545931af3fbe)
-
-### Para la pared frontal, mejoramos la pizarra con el proyector el whiteboard, los receptaculos, el fuego extinor y los carteles cuyo continenen noticias y anuncios.
-![14](https://github.com/user-attachments/assets/8bdae88d-8aca-40bd-95de-9eaf78e06327)
-
-### La pared de la derecha se mantuvo igual, solo anadimos un receptaculo que le pertenece
-![15](https://github.com/user-attachments/assets/8fda4a91-05fd-4d94-8643-bfcab0a456c9)
-
-### Por ultimo, colocamos colliders a todos los objetos del salon que el jugador puede interactuar, concluyendo la creacion. Para los demas niveles, lo que hicimos fue mover sillas y desorganizarlo un poco para hacerlo mas retante. Originalmente pensabamos que iba a quedar mas tecato la escena, pero estamos bastante orgullosos con el resultado final. Mostramos la siguiente foto para comparar con la tomada al principio.
-![16](https://github.com/user-attachments/assets/d389b14b-d70e-4fa6-bf52-f8d42b649460)
-
-## Iluminacion:
 
 ## Jugador:
 

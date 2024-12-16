@@ -124,8 +124,8 @@
 ### (INSERTA GIF'S AQUI)
 
 ## Agradecimientos
-### Agradecemos profundamente a los siguientes profesores del Departamento de Ciencias de Cómputos por su apoyo y colaboración al permitir el uso de sus imágenes en el juego:
 
+### Agradecemos profundamente a los siguientes profesores, y mascotas, del Departamento de Ciencias de Cómputos por su apoyo y colaboración al permitir el uso de sus imágenes en el juego:
 ### Edusmildo Orozco y su perro Thor
 ### Rafael Arce
 ### David Flores

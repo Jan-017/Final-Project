@@ -11,16 +11,10 @@
 ### Este juego simula una pesadilla clásica para los estudiantes de Ciencia de Cómputos de la UPR-RP: ¡enfrentar un examen sin haber estudiado y depender de copiarse para pasar! Aunque toma elementos de horror y humor, 5 Exámenes en CCOM es único en sus mecánicas y está diseñado como un tributo a los estudiantes y profesores del Departamento de CCOM.
 
 ## **Objetivo del juego**
-### Eres un estudiante desesperado en busca de 3 libretas con las respuestas del examen. Pero cuidado: el profesor, junto con un invitado especial, patrullan el salón para asegurarse de que nadie se copie.
+### Eres un estudiante desesperado en busca de 3 libretas con las respuestas del examen. Pero cuidado: el profesor, junto con la ayuda de Thor, patrullan el salón para asegurarse de que nadie se copie.
 
 ## **Reglas principales:**
-### Recoge al menos 1 libreta para avanzar al siguiente nivel. Si no recoges ninguna, pierdes. Ser atrapado por el profesor resulta en una derrota inmediata. Ademas, tienes un tiempo limitado para completar tu misión en cada nivel.
-
-## **Sistema de calificación:**
-### 1 libreta = C
-### 2 libretas = B
-### 3 libretas = A
-### A medida que avanzas por las cinco escenas, la dificultad aumenta, reflejando la dificultad de los cursos a lo largo del Bachillerato en Ciencia de Cómputos.
+### Recoge las 3 libretas con las respuestas para tu examen para avanzar al siguiente nivel. Si no recoges ninguna en cierta cantidad de tiempo, pierdes. Ser atrapado por el profesor resulta en una derrota inmediata. A medida que avanzas por las cinco escenas, la dificultad aumenta, reflejando la dificultad de los cursos a lo largo del Bachillerato en Ciencia de Cómputos.
 
 # **Creación del Juego**
 
@@ -37,15 +31,11 @@
 ### AllSkyFree
 ### TextMeshPro
 
-## **Escena Principal: Salón A-143**
-### El mapa principal del juego es una réplica fiel del Salón A-143 del Departamento de CCOM. Para garantizar el mayor realismo, tomamos fotografías de múltiples ángulos y objetos presentes en el salón, recreándolo con precisión en Unity.
-![Salon](https://github.com/user-attachments/assets/f44e5be1-1298-416e-8b57-b47024ff8575) 
-
 ## Escena principal: Salon A-143: 
 ### El mapa principal del juego es una réplica del Salón A-143 del Departamento de CCOM. Para lograr el mayor realismo posible, tomamos fotografías de múltiples ángulos y de los objetos presentes en el salón. Esto nos permitió recrear el espacio con precisión, añadiendo detalles visuales que reflejan el ambiente del aula original.
 ![Salon](https://github.com/user-attachments/assets/f44e5be1-1298-416e-8b57-b47024ff8575) 
 
-### Para organizar la construcción, dividimos el salón en cinco subcategorías principales: piso, mesas, paredes, techo, decoraciones e iluminación.
+### Para organizar la construcción, dividimos el salón en seis subcategorías principales: piso, mesas, paredes, techo, decoraciones e iluminación.
 
 ## **Paso 1: Piso**
 
@@ -62,13 +52,14 @@
 
 ## **Paso 3: Mesas y Sillas**
 
-### Creamos los prefabs de las mesas y sillas del salón. Este paso fue crucial porque determinó las proporciones internas del espacio. Las texturas se obtuvieron de fotografías tomadas directamente del salón. Una vez diseñados los prefabs, los duplicamos y posicionamos con distancias adecuadas entre ellos, incluyendo mesas auxiliares.
+### Creamos los prefabs de las mesas y sillas del salón. Lo hicimos basándonos en las fotografías capturadas, al igual que sus texturas. Este paso fue crucial porque determinó las proporciones internas del espacio. La creación fue hecha una vez diseñados los prefabs; los duplicamos y posicionamos con distancias adecuadas entre ellos, incluyendo mesas auxiliares.
 ![3](https://github.com/user-attachments/assets/4cb7ce47-315d-44ae-b833-d06ecfaa18e5)
 ![4](https://github.com/user-attachments/assets/947d4f77-72f6-4683-9207-2b4cdf4c041d)
 
 ## **Paso 4: Paredes**
 
 ### Pared Izquierda
+
 ### La creación de las paredes no fue complicada, a excepción de la pared que contiene las ventanas del salón (la pared de la izquierda, considerando que la pared frontal es la que contiene las pizarras). Esta pared requirió mayor atención debido a que contiene ventanas, cortinas y espacios internos con muchas esquinas. Utilizamos figuras ajustadas con las herramientas de Game Object para crearla.
 ![5](https://github.com/user-attachments/assets/b6b56553-b39f-4030-b28b-e564e7924176)
 
@@ -110,10 +101,11 @@
 ![19](https://github.com/user-attachments/assets/2f3976d6-9f4e-40f7-9f32-776b19b93d4d)
 ![20](https://github.com/user-attachments/assets/a2199c25-06cd-4182-a54f-e56f1f424af4)
 
-### Por ultimo, colocamos colliders a todos los objetos del salon que el jugador puede interactuar, concluyendo la creacion. Para los demas niveles, lo que hicimos fue mover sillas y desorganizarlo un poco para hacerlo mas retante. Originalmente pensabamos que iba a quedar mas tecato la escena, pero estamos bastante orgullosos con el resultado final. Mostramos la siguiente foto para comparar con la tomada al principio.
+### Por último, añadimos colisionadores a los objetos interactuables del salón, completando su creación. Copiamos esta escena final y la utilizamos para los próximos niveles, cambiando el lugar de las libretas. Pensamos que quedaría simple, pero estamos orgullosos del resultado final. Aquí una foto para comparar con la inicial.
 ![16](https://github.com/user-attachments/assets/d389b14b-d70e-4fa6-bf52-f8d42b649460)
 
-## Jugador:
+## Jugador Principal:
+### Libretas:
 
 ## Enemigos:
 

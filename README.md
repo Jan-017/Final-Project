@@ -184,6 +184,14 @@
 
 ![Cheo](https://github.com/user-attachments/assets/e1b6dfa2-56e5-4367-9697-dfa29487fcc4)
 
+## Opiniones Personales del proyecto
+
+## Sebastián Negrón:
+### El proyecto me pareció espectacular y, sin duda, el más divertido que he realizado durante mi carrera en CCOM. La idea fue excelente y, aunque podría ser difícil para personas fuera del Departamento de Cómputos entenderlo por completo, me encantó que lo dedicáramos a nuestra comunidad. Me sorprendió que los profesores estuvieran a bordo con la idea, y me parece increíble y significativo que, de alguna manera, logramos unificar a estudiantes, cursos y profesores simplemente para reírnos y divertirnos juntos. Por último, me asombra cuánto aprendimos sobre Unity; pasamos de no tener conocimientos a poder desarrollar proyectos realmente interesantes.
+
+## Mayra Lago:
+
+## Jancarlos González:
 
 ## Agradecimientos
 

@@ -62,8 +62,8 @@
 ### La creación de las paredes no fue complicada, a excepción de la pared que contiene las ventanas del salón (la pared de la izquierda, considerando que la pared frontal es la que contiene las pizarras). Esta pared requirió mayor atención debido a que contiene ventanas, cortinas y espacios internos con muchas esquinas. Utilizamos figuras ajustadas con las herramientas de Game Object para crearla.
 ![5](https://github.com/user-attachments/assets/b6b56553-b39f-4030-b28b-e564e7924176)
 
-### Pared Frontal
-## Contiene pizarras y el whiteboard utilizado para proyectar presentaciones.
+## Pared Frontal
+### Contiene pizarras y el whiteboard utilizado para proyectar presentaciones.
 ![6](https://github.com/user-attachments/assets/eed6ac13-1b36-4a49-afe9-b0ece6e85dc1)
 
 ### Pared Derecha

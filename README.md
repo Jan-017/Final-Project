@@ -136,6 +136,26 @@
 ### En cada ronda, se añade un profesor más a la escena.
 ### Los profesores se comportan según un patrón específico de movimiento y ataque.
 
+### Puntos de las Bases:
+![WhatsApp Image 2024-12-17 at 00 27 44_c4fbf0dd](https://github.com/user-attachments/assets/e04e3f2f-c245-48c9-8624-0eaaa2dba014)
+
+### Movimiento de Edusmildo:
+![WhatsApp Image 2024-12-17 at 00 27 43_aca39923](https://github.com/user-attachments/assets/d2ffa40f-995e-46a9-bb3f-f3491e4e85b6)
+
+### Movimiento de Arce:
+![WhatsApp Image 2024-12-17 at 00 27 43_2d9e65c3](https://github.com/user-attachments/assets/dbc4f294-656a-49c5-892f-9a5e9d7d0aca)
+
+### Movimiento de David:
+![WhatsApp Image 2024-12-17 at 00 27 44_2a418e8b](https://github.com/user-attachments/assets/ad0418d4-765e-4033-8e51-24217047218b)
+
+### Movimiento de Ivelisse:
+![WhatsApp Image 2024-12-17 at 00 27 43_4662b0db](https://github.com/user-attachments/assets/9ea1bfcb-3264-4a06-8b96-894ce3e55e78)
+
+### Movimiento de José Ortiz: 
+![WhatsApp Image 2024-12-17 at 00 27 43_4662b0db](https://github.com/user-attachments/assets/e6464b44-3dc4-417b-bf83-64b7a93ad5f3)
+
+### Por último, añadimos un script de Sight para ensenar los Gizmos de los personajes.
+
 ## Pantallas de Victoria y Derrota
 ### Uno de los elementos más creativos de 5 Exámenes en CCOM son las pantallas finales, creadas con la colaboración de profesores del Departamento de CCOM. Estas incluyen fotografías en dos versiones: una feliz y otra molesta. Las imágenes fueron decoradas con elementos humorísticos, como objetos, imágenes y videos, para mantener un tono ligero y respetuoso hacia los profesores. Además, utilizamos una tipografía similar a la de Five Nights at Freddy's, obtenida de www.dafont.com, para reforzar la estética del juego.
 

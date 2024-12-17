@@ -100,6 +100,9 @@
 ![19](https://github.com/user-attachments/assets/2f3976d6-9f4e-40f7-9f32-776b19b93d4d)
 ![20](https://github.com/user-attachments/assets/a2199c25-06cd-4182-a54f-e56f1f424af4)
 
+![LightFlickering](https://github.com/user-attachments/assets/3a33ac3b-0b88-42ee-ac7a-47af10b3bd12)
+
+
 ### Por último, añadimos colisionadores a los objetos interactuables del salón, completando su creación. Copiamos esta escena final y la utilizamos para los próximos niveles, cambiando el lugar de las libretas. Pensamos que quedaría simple, pero estamos orgullosos del resultado final. Aquí una foto para comparar con la inicial.
 ![16](https://github.com/user-attachments/assets/d389b14b-d70e-4fa6-bf52-f8d42b649460)
 
@@ -131,7 +134,7 @@
 
 ### (INSERTA GIF'S AQUI)
 
-![Uploading Cheo.gif…]()
+![Cheo](https://github.com/user-attachments/assets/e1b6dfa2-56e5-4367-9697-dfa29487fcc4)
 
 
 ## Agradecimientos

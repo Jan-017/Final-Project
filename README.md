@@ -157,6 +157,7 @@
 ### A continuación, mostramos el ejemplo de la Máquina de Estados Finitos de Edusmildo Orozco:
 ![Screenshot 2024-12-17 002815](https://github.com/user-attachments/assets/d786f915-e01b-45a4-add6-38a97806f816)
 ![Screenshot 2024-12-17 002832](https://github.com/user-attachments/assets/f614ba23-7ebc-423a-84c4-b67265859cf2)
+![Screenshot 2024-12-17 002846](https://github.com/user-attachments/assets/d6331a12-7c8f-4dfd-975c-5b985f113b39)
 ![Screenshot 2024-12-17 002859](https://github.com/user-attachments/assets/43457746-0a13-41ad-a8b8-a75e435bc8f6)
 ![Screenshot 2024-12-17 002908](https://github.com/user-attachments/assets/f80d54ca-7a17-4bbf-9af6-04f3bbaf7ebc)
 ![Screenshot 2024-12-17 002934](https://github.com/user-attachments/assets/1a5a570f-6947-4911-aeeb-d14536a12ccd)

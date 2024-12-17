@@ -34,7 +34,7 @@
 ### El mapa principal del juego es una réplica del Salón A-143 del Departamento de CCOM. Para lograr el mayor realismo posible, tomamos fotografías de múltiples ángulos y de los objetos presentes en el salón. Esto nos permitió recrear el espacio con precisión, añadiendo detalles visuales que reflejan el ambiente del aula original.
 ![Salon](https://github.com/user-attachments/assets/f44e5be1-1298-416e-8b57-b47024ff8575) 
 
-### Para organizar la construcción, dividimos el salón en seis subcategorías principales: piso, mesas, paredes, techo, decoraciones e iluminación.
+### Para organizar la construcción, dividimos el salón en siete subcategorías principales: piso, mesas, paredes, techo, decoraciones, iluminación y música.
 
 ## **Paso 1: Piso**
 
@@ -102,6 +102,8 @@
 
 ![LightFlickering](https://github.com/user-attachments/assets/3a33ac3b-0b88-42ee-ac7a-47af10b3bd12)
 
+## **Paso 8: Música**
+### Para crear un ambiente de tensión más profundo, utilizamos una playlist de YouTube con música de horror, la cual dividimos en secciones específicas para cada escena. En Unity, simplemente creamos un Objeto Vacío, le añadimos el componente Audio Source, asignamos el archivo de audio en formato MP3 o WAV y configuramos opciones como Play On Awake y Loop para que la música se reproduzca automáticamente.
 
 ### Por último, añadimos colisionadores a los objetos interactuables del salón, completando su creación. Copiamos esta escena final y la utilizamos para los próximos niveles, cambiando el lugar de las libretas. Pensamos que quedaría simple, pero estamos orgullosos del resultado final. Aquí una foto para comparar con la inicial.
 ![16](https://github.com/user-attachments/assets/d389b14b-d70e-4fa6-bf52-f8d42b649460)
@@ -122,12 +124,17 @@
 ### Tiempo
 
 ### A través de Game Object > User Interface Se hizo un canvas que tuviera el contador y se hizo un script para manejar el tiempo que sale en el contador. 
+![counter](https://github.com/user-attachments/assets/6a7c8d52-f09f-4f96-b449-733205df8e2f)
 ![TiempoScript](https://github.com/user-attachments/assets/26279f15-7347-427c-af3b-79045c778223)
 ![codigo2timer](https://github.com/user-attachments/assets/3e440ba2-d4b9-4288-87f4-fa4ad6b9b03d)
-![counter](https://github.com/user-attachments/assets/6a7c8d52-f09f-4f96-b449-733205df8e2f)
-
 
 ## Enemigos:
+### La parte más compleja del proyecto consiste en los enemigos, representados por los profesores del Departamento. Cada ronda introduce un nuevo profesor, añadiendo a los anteriores al avanzar. El movimiento de los profesores está controlado mediante una Máquina de Estados Finitos (FSM) con los siguientes estados:
+### GoToBase: Se dirigen a una base específica, determinada por el código.
+### Attack: Al llegar a la base, ejecutan una acción definida.
+### Lógica de Rondas
+### En cada ronda, se añade un profesor más a la escena.
+### Los profesores se comportan según un patrón específico de movimiento y ataque.
 
 ## Pantallas de Victoria y Derrota
 ### Uno de los elementos más creativos de 5 Exámenes en CCOM son las pantallas finales, creadas con la colaboración de profesores del Departamento de CCOM. Estas incluyen fotografías en dos versiones: una feliz y otra molesta. Las imágenes fueron decoradas con elementos humorísticos, como objetos, imágenes y videos, para mantener un tono ligero y respetuoso hacia los profesores. Además, utilizamos una tipografía similar a la de Five Nights at Freddy's, obtenida de www.dafont.com, para reforzar la estética del juego.

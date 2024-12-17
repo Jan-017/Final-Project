@@ -110,6 +110,8 @@
 
 ### Se utilizó el prefab Supercyan Character Pack Animal People Sample que se descargó en el Unity Asset Store. Se le agregaron la configuración de las teclas para el movimiento (A, W, S, D) y la configuración de la letra E (Take) para interactura con las libretas. Luego se le añadieron los scripts de PlayerMovement y PlayerPickUpDrop, respectivamente. para que este último funcionara adecuadamente, se crearon los layers de Jugador y Libreta. Se le dio al script como argumento el layer de Libreta y se agregó al prefab. Además, se le añadió el layer al jugador. 
 
+![Movimiento](https://github.com/user-attachments/assets/21082daf-546d-4d2a-b555-33c1c067f0b6)
+
 ### Libretas:
 
 ### Las libretas, además de poseer el script de PlayerPickUpDrop, que permite al jugador tomar la libreta (borrar el objeto) para poder pasar de nivel, utiliza el script ObjectGrabbable que toma el objeto de la libreta como argumento para trabajar con el script anterior. Aunque también, poseen su propio Manager (NotebookManager) que evalúa la cantidad de libretas que no han sido tomadas (o destruidas) para saber si el jugador cumple con la condición de victoria.

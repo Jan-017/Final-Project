@@ -123,9 +123,16 @@
 
 ### Derrota 1: Si no recoges ninguna libreta, se refleja el fracaso con un mensaje irónico.
 
+![losescreen1](https://github.com/user-attachments/assets/00867c03-ad40-45cb-a825-fe452d834ef2)
+
 ### Derrota 2: Si te atrapan copiándote, el profesor aparece molesto por tus acciones. 
 
+![losescreen2](https://github.com/user-attachments/assets/9232b9eb-a1ea-472a-9f1c-38eaf17d36bd)
+
 ### (INSERTA GIF'S AQUI)
+
+![Uploading Cheo.gif…]()
+
 
 ## Agradecimientos
 

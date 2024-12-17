@@ -2,9 +2,8 @@
 
 ## **¿Qué es 5 Exámenes en CCOM?**
 
-### (INSERTAR LOGO AQUÍ)
-
-### 5 Exámenes en CCOM es nuestro proyecto final para el curso de CCOM4995: Diseño de Videojuegos. Parte de nuestra inspriación viene de la icónica franquicia Five Nights at Freddy's de Scott Cawthon.
+ 
+### 5 Exámenes en CCOM es nuestro proyecto final para el curso de CCOM4995: Diseño de Videojuegos. Parte de nuestra inspiración viene de la icónica franquicia Five Nights at Freddy's de Scott Cawthon.
 
 ![image](https://github.com/user-attachments/assets/f9a7dfb9-efb6-4a2f-aab8-ba2999ad24d0)
 
@@ -52,7 +51,7 @@
 
 ## **Paso 3: Mesas y Sillas**
 
-### Creamos los prefabs de las mesas y sillas del salón. Lo hicimos basándonos en las fotografías capturadas, al igual que sus texturas. Este paso fue crucial porque determinó las proporciones internas del espacio. La creación fue hecha una vez diseñados los prefabs; los duplicamos y posicionamos con distancias adecuadas entre ellos, incluyendo mesas auxiliares.
+### Creamos los prefabs de las mesas y descargamos los de las sillas del salón. Lo hicimos basándonos en las fotografías capturadas, al igual que sus texturas. Este paso fue crucial porque determinó las proporciones internas del espacio. La creación fue hecha una vez diseñados los prefabs; los duplicamos y posicionamos con distancias adecuadas entre ellos, incluyendo mesas auxiliares.
 ![3](https://github.com/user-attachments/assets/4cb7ce47-315d-44ae-b833-d06ecfaa18e5)
 ![4](https://github.com/user-attachments/assets/947d4f77-72f6-4683-9207-2b4cdf4c041d)
 
@@ -105,6 +104,9 @@
 ![16](https://github.com/user-attachments/assets/d389b14b-d70e-4fa6-bf52-f8d42b649460)
 
 ## Jugador Principal:
+
+### Se utilizó el prefab Supercyan Character Pack Animal People Sample que se descargó en el Unity Asset Store. Se le agregaron la configuración de las teclas para el movimiento (A, W, S, D) y la configuración de la letra E (Take) para interactura con las libretas. Luego se le añadieron los scripts de PlayerMovement y PlayerPickUpDrop, respectivamente. para que este último funcionara adecuadamente, se crearon los layers de Jugador y Libreta. Se le dio al script como argumento el layer de Libreta y se agregó al prefab. Además, se le añadió el layer al jugador. 
+
 ### Libretas:
 
 ## Enemigos:

@@ -108,8 +108,9 @@
 
 ## Jugador Principal:
 
-### Se utilizó el prefab Supercyan Character Pack Animal People Sample que se descargó en el Unity Asset Store. Se le agregaron la configuración de las teclas para el movimiento (A, W, S, D) y la configuración de la letra E (Take) para interactura con las libretas. Luego se le añadieron los scripts de PlayerMovement y PlayerPickUpDrop, respectivamente. para que este último funcionara adecuadamente, se crearon los layers de Jugador y Libreta. Se le dio al script como argumento el layer de Libreta y se agregó al prefab. Además, se le añadió el layer al jugador. 
-
+### Se utilizó el prefab Supercyan Character Pack Animal People Sample que se descargó en el Unity Asset Store. Se le agregaron la configuración de las teclas para el movimiento (A, W, S, D) y la configuración de la letra E (Take) para interactura con las libretas mediante el sistema nuevo de entradas de Unity. Luego se le añadieron los scripts de PlayerMovement y PlayerPickUpDrop, respectivamente. Para que este último funcionara adecuadamente, se crearon los layers de Jugador y Libreta. Se le dio al script como argumento el layer de Libreta y se agregó al prefab. Además, se le añadió el layer al jugador. A continuación, mostramos los scripts y una breve demostración.
+![WhatsApp Image 2024-12-16 at 23 38 41_d1d2e541](https://github.com/user-attachments/assets/155bad78-99df-4efc-80e1-992f12b83791)
+![WhatsApp Image 2024-12-16 at 23 39 56_3cda0e60](https://github.com/user-attachments/assets/08ac5abc-01bf-4488-b016-31334134fe66)
 ![Movimiento](https://github.com/user-attachments/assets/21082daf-546d-4d2a-b555-33c1c067f0b6)
 
 ### Libretas:

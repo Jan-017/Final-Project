@@ -13,7 +13,7 @@
 ### Eres un estudiante desesperado en busca de 3 libretas con las respuestas del examen. Pero cuidado: el profesor, junto con la ayuda del perro Thor, patrullan el salón para asegurarse de que nadie se copie.
 
 ## **Reglas principales:**
-### Recoge las 3 libretas con las respuestas para tu examen para avanzar al siguiente nivel. Si no recoges ninguna en cierta cantidad de tiempo, pierdes. Ser atrapado por el profesor resulta en una derrota inmediata. A medida que avanzas por las cinco escenas, la dificultad aumenta, reflejando la dificultad de los cursos a lo largo del Bachillerato en Ciencia de Cómputos.
+### Recoge las 3 libretas con las respuestas para tu examen para avanzar al siguiente nivel. Si no recoges las 3 libretas, pierdes. Además, ser atrapado por el profesor resulta en una derrota inmediata. A medida que avanzas por las cinco escenas, la dificultad aumenta, reflejando la dificultad de los cursos a lo largo del Bachillerato en Ciencia de Cómputos.
 
 # **Creación del Juego**
 

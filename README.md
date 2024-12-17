@@ -117,7 +117,14 @@
 ### Las libretas, además de poseer el script de PlayerPickUpDrop, que permite al jugador tomar la libreta (borrar el objeto) para poder pasar de nivel, utiliza el script ObjectGrabbable que toma el objeto de la libreta como argumento para trabajar con el script anterior. Aunque también, poseen su propio Manager (NotebookManager) que evalúa la cantidad de libretas que no han sido tomadas (o destruidas) para saber si el jugador cumple con la condición de victoria.
 
 ### Tiempo
+
+### Se hizo un canvas que tuviera el contador y se hizo un código para manejar el tiempo que sale en el contador. 
+
 ![TiempoScript](https://github.com/user-attachments/assets/26279f15-7347-427c-af3b-79045c778223)
+![codigo2timer](https://github.com/user-attachments/assets/3e440ba2-d4b9-4288-87f4-fa4ad6b9b03d)
+
+![counter](https://github.com/user-attachments/assets/6a7c8d52-f09f-4f96-b449-733205df8e2f)
+
 
 ## Enemigos:
 

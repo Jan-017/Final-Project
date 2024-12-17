@@ -154,7 +154,16 @@
 ### Movimiento de José Ortiz: 
 ![WhatsApp Image 2024-12-17 at 00 27 43_4662b0db](https://github.com/user-attachments/assets/e6464b44-3dc4-417b-bf83-64b7a93ad5f3)
 
-### Por último, añadimos un script de Sight para ensenar los Gizmos de los personajes.
+### A continuación, mostramos el ejemplo de la Máquina de Estados Finitos de Edusmildo Orozco:
+![Screenshot 2024-12-17 002815](https://github.com/user-attachments/assets/d786f915-e01b-45a4-add6-38a97806f816)
+![Screenshot 2024-12-17 002832](https://github.com/user-attachments/assets/f614ba23-7ebc-423a-84c4-b67265859cf2)
+![Screenshot 2024-12-17 002859](https://github.com/user-attachments/assets/43457746-0a13-41ad-a8b8-a75e435bc8f6)
+![Screenshot 2024-12-17 002908](https://github.com/user-attachments/assets/f80d54ca-7a17-4bbf-9af6-04f3bbaf7ebc)
+![Screenshot 2024-12-17 002934](https://github.com/user-attachments/assets/1a5a570f-6947-4911-aeeb-d14536a12ccd)
+
+### Por último, añadimos un script de Sight para enseñar los Gizmos de los personajes. 
+![WhatsApp Image 2024-12-17 at 00 32 01_2d486ed5](https://github.com/user-attachments/assets/fdd9a812-604e-4739-bd9e-76e41c4d3ca4)
+![WhatsApp Image 2024-12-17 at 00 32 01_22319101](https://github.com/user-attachments/assets/230b51c5-76ad-463a-b30b-81700e08be30)
 
 ## Pantallas de Victoria y Derrota
 ### Uno de los elementos más creativos de 5 Exámenes en CCOM son las pantallas finales, creadas con la colaboración de profesores del Departamento de CCOM. Estas incluyen fotografías en dos versiones: una feliz y otra molesta. Las imágenes fueron decoradas con elementos humorísticos, como objetos, imágenes y videos, para mantener un tono ligero y respetuoso hacia los profesores. Además, utilizamos una tipografía similar a la de Five Nights at Freddy's, obtenida de www.dafont.com, para reforzar la estética del juego.

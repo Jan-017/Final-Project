@@ -116,6 +116,8 @@
 ### Libretas:
 
 ### Las libretas, además de poseer el script de PlayerPickUpDrop, que permite al jugador tomar la libreta (borrar el objeto) para poder pasar de nivel, utiliza el script ObjectGrabbable que toma el objeto de la libreta como argumento para trabajar con el script anterior. Aunque también, poseen su propio Manager (NotebookManager) que evalúa la cantidad de libretas que no han sido tomadas (o destruidas) para saber si el jugador cumple con la condición de victoria.
+![WhatsApp Image 2024-12-16 at 23 51 24_e7eb7256](https://github.com/user-attachments/assets/448a7203-7497-44f1-b490-ad97e0d6699b)
+![WhatsApp Image 2024-12-16 at 23 54 25_8581ee8a](https://github.com/user-attachments/assets/e85fc3f1-ed16-484a-bf9c-a3d2edfb8f4a)
 
 ### Tiempo
 

@@ -193,6 +193,7 @@
 ### Realizar este proyecto fue una experiencia entretenida, pues pudimos dar rienda suelta a nuestra imaginación y utilizar lo aprendido en clase para crear un juego completo con diferentes mecánicas. Una de mis partes favoritas fue el diseño del salón, la creación de algunos assets y la implementación del contador. Me gustó mucho que estos elementos fueran llamativos y aportaran a la ambientación del salón.
 
 ## Jancarlos González:
+### Este proyecto final fue toda una experiencia inolvidable, ya que la pase bien descubrindo cosas nuevas para hacer como el rehacer cosas viejas que ya se habian  hecho en clases pero se necesitaban para el pryecto. La idea del proyecto desde el principio fue algo que me emociono mucho ya que al ser de ccom y que el juego tenga que ver con ccom fue increible y tambien que los mismo profesores aceptara a el uso de su imagen es algo que les agradezco ya que sin eso no hubiera sido lo mismo.
 
 ## Agradecimientos
 

@@ -203,3 +203,18 @@
 ### José Ortiz
 ### Humberto Ortiz
 ### Lillian González
+
+## Material de referencia
+
+### Flickering Lights
+### https://www.youtube.com/watch?v=DNMdu3kylec&t=360s
+
+### Pick up objects
+### https://youtu.be/2IhzPTS4av4?si=x2b04yYkK2wypyky 
+
+### Botón de cambio de escena
+### https://www.youtube.com/watch?v=zQH7RRb3CnY
+
+### Timer
+### https://youtu.be/POq1i8FyRyQ?si=oOSvE2rVK2HBzR3M
+### https://docs.unity3d.com/es/530/ScriptReference/WaitForSeconds.html 

@@ -152,7 +152,7 @@
 ![WhatsApp Image 2024-12-17 at 00 27 43_4662b0db](https://github.com/user-attachments/assets/9ea1bfcb-3264-4a06-8b96-894ce3e55e78)
 
 ### Movimiento de José Ortiz: 
-![WhatsApp Image 2024-12-17 at 00 27 43_4662b0db](https://github.com/user-attachments/assets/e6464b44-3dc4-417b-bf83-64b7a93ad5f3)
+![WhatsApp Image 2024-12-17 at 00 27 45_4bc93e23](https://github.com/user-attachments/assets/b65f01eb-2ee9-4d53-ba40-efeeb1dd7dde)
 
 ### A continuación, mostramos el ejemplo de la Máquina de Estados Finitos de Edusmildo Orozco:
 ![Screenshot 2024-12-17 002815](https://github.com/user-attachments/assets/d786f915-e01b-45a4-add6-38a97806f816)

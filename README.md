@@ -190,6 +190,7 @@
 ### El proyecto me pareció espectacular y, sin duda, el más divertido que he realizado durante mi carrera en CCOM. La idea fue excelente y, aunque podría ser difícil para personas fuera del Departamento de Cómputos entenderlo por completo, me encantó que lo dedicáramos a nuestra comunidad. Me sorprendió que los profesores estuvieran a bordo con la idea, y me parece increíble y significativo que, de alguna manera, logramos unificar a estudiantes, cursos y profesores simplemente para reírnos y divertirnos juntos. Por último, me asombra cuánto aprendimos sobre Unity; pasamos de no tener conocimientos a poder desarrollar proyectos realmente interesantes.
 
 ## Mayra Lago:
+### Realizar este proyecto fue una experiencia entretenida, pues pudimos dar rienda suelta a nuestra imaginación y utilizar lo aprendido en clase para crear un juego completo con diferentes mecánicas. Una de mis partes favoritas fue el diseño del salón, la creación de algunos assets y la implementación del contador. Me gustó mucho que estos elementos fueran llamativos y aportaran a la ambientación del salón.
 
 ## Jancarlos González:
 

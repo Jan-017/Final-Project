@@ -184,6 +184,12 @@
 
 ![Cheo](https://github.com/user-attachments/assets/e1b6dfa2-56e5-4367-9697-dfa29487fcc4)
 
+## Este es el ZIP File
+## https://drive.google.com/file/d/1PX_5FD4k1ZQKptEuW09Q3__DCSi17KuW/view?usp=sharing
+
+
+Los scripts duplicados no están comentados, si no que los comentarios se encuentran en el código original.
+
 ## Opiniones Personales del proyecto
 
 ## Sebastián Negrón:
@@ -193,6 +199,7 @@
 ### Realizar este proyecto fue una experiencia entretenida, pues pudimos dar rienda suelta a nuestra imaginación y utilizar lo aprendido en clase para crear un juego completo con diferentes mecánicas. Una de mis partes favoritas fue el diseño del salón, la creación de algunos assets y la implementación del contador. Me gustó mucho que estos elementos fueran llamativos y aportaran a la ambientación del salón.
 
 ## Jancarlos González:
+### Este proyecto final fue toda una experiencia inolvidable, ya que la pasé bien descubriendo cosas nuevas para hacer. Como el rehacer cosas viejas que ya se habían  hecho en clases pero se necesitaban para el proyecto. La idea del proyecto desde el principio fue algo que me emocionó mucho, ya que al ser de CCOM y que el juego tenga que ver con CCOM fue increible. Aunque también que los mismos profesores aceptaran a el uso de su imagen es algo que les agradezco pues sin eso no hubiera sido lo mismo.
 
 ## Agradecimientos
 
